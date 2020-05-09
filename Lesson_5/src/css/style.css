@@ -1,0 +1,47 @@
+body{
+	padding: 20px;
+	margin: 0;
+	border: 3px solid black;
+	background-color: #aeaeae;
+
+
+}
+.header-logo{
+	margin-left: -23px;
+	margin-right: -23px;
+	padding: 40px;
+	text-align: center;
+	border: 3px solid black;
+}
+.silka{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	transition: color .2s;
+
+}
+.silka:hover{
+	color:yellow;
+	text-decoration: underline;
+
+}
+
+.book{
+	color:red;
+	text-align: center;
+
+}
+#big{
+	font-weight: 900;
+}
+#kursiv{
+	font-style: italic;
+}
+#underline{
+	text-decoration:underline;
+}
+#line{
+	text-decoration: line-through;
+
+
+}
